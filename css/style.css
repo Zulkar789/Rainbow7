@@ -7,7 +7,7 @@ Version: 1.0
 
 /* --- TABLE OF CONTENT
 
-01. GENERAL LAYOUT
+01. GENERAL LAYOUT AND LOGO
 02. MENU-NAV
 03. FOOTER
 04. HOME
@@ -34,6 +34,16 @@ Version: 1.0
 /* ========================================================== */
 /* 			               01. GENERAL LAYOUT                 */
 /* ========================================================== */
+
+#logo {
+  margin-left: 70px;
+}
+
+#R7 {
+  position: absolute;
+  top: 11px;
+  height: 70px;
+}
 
 ul,
 ol {
