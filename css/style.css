@@ -1926,6 +1926,10 @@ ul.features-list-hero li i {
   .navbar-header {
     margin-bottom: 15px !important;
   }
+
+  #R7 {
+    margin-left: 5px;
+  }
 }
 
 @media (max-width: 375px) {
