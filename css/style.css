@@ -190,7 +190,7 @@ iframe {
 
 .section-grey {
   background: #f2f7f8;
-  padding: 70px 0;
+  padding: 40px 0;
 }
 
 .section-white.no-padding,
@@ -230,11 +230,12 @@ iframe {
 
 .section-dark {
   background-color: #272834;
-  padding: 70px 0;
+  padding: 220px 0;
 }
 
 .width-100 {
-  width: 100%;
+  width: 60%;
+  height: 40%;
 }
 
 /* margin and padding classes */
@@ -1359,10 +1360,11 @@ p.contact_success_box {
 /* ========================================================== */
 
 .extra-image {
-  position: relative;
-  margin-top: 30px;
-  margin-bottom: -200px;
+  position: absolute;
+  margin-top: 0px;
+  margin-bottom: -184;
   z-index: 200;
+  margin-left: 7%;
 }
 
 /* -----  a) Newsletter ----- */
