@@ -3811,7 +3811,7 @@ Responsive Menu
   }
   #topnav .navigation-menu > li .submenu.megamenu > li {
     overflow: hidden;
-    width: 200px;
+    width: fit-content;
     display: inline-block;
     vertical-align: top;
   }
